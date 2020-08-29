@@ -1,7 +1,7 @@
 # First Homework: Horiseon Webpage
 
-## Overview
-    Refactored the existing Horiseon webpage to make sure it followed accissibility standards and was optimized correctly for search engines. 
+## Description
+    Refactored the existing Horiseon webpage to make sure it followed accessibility standards and was optimized correctly for search engines. 
 
 ## Enhancements 
     1. Add Semantic HTML elements 

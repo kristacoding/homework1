@@ -20,3 +20,6 @@
     5. Title Element was give concise, descriptive title 
     6. Jumplink ID and CSS Class were separated to avoid confusion
     7. Comments were added before each section
+    8. Consolidate duplicate CSS efforts 
+        - Renamed css elements to be more descriptive
+        - Reorder to match flow of HTML
